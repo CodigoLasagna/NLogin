@@ -12,4 +12,5 @@ public class User
     public string Email { get; set; }
     public string Password { get; set; }
     public string? n_numb { get; set; }
+    public string? p_key { get; set; }
 }

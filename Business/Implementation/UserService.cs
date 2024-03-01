@@ -22,6 +22,7 @@ public class UserService : IUserService
         byte[] encrypted_pass = Security.EncryptText(entity.Password, publicKey, n);
         entity.Password = BitConverter.ToString(encrypted_pass).Replace("-", "");
         entity.n_numb = n.ToString();
+        entity.p_key = privateKey.ToString();
         //Console.WriteLine("Encriptado: " + entity.Password);
         //string decryptedText = Security.DecryptText(Security.returnBytes(entity.Password), BigInteger.Parse(priv_key), BigInteger.Parse(entity.n_numb));
         //Console.WriteLine("Mensaje descifrado: " + decryptedText);

@@ -44,6 +44,9 @@ namespace Data.Migrations
                     b.Property<string>("n_numb")
                         .HasColumnType("longtext");
 
+                    b.Property<string>("p_key")
+                        .HasColumnType("longtext");
+
                     b.HasKey("Id");
 
                     b.ToTable("Users");

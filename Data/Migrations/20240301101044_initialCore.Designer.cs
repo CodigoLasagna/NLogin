@@ -12,8 +12,8 @@ using Nlog.context;
 namespace Data.Migrations
 {
     [DbContext(typeof(NlogDbContext))]
-    [Migration("20240301085414_InitialCore")]
-    partial class InitialCore
+    [Migration("20240301101044_initialCore")]
+    partial class initialCore
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -45,6 +45,9 @@ namespace Data.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<string>("n_numb")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("p_key")
                         .HasColumnType("longtext");
 
                     b.HasKey("Id");
