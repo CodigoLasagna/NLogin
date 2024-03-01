@@ -16,6 +16,15 @@
 
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="context\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Business\Business.csproj" />
+      <ProjectReference Include="..\Data\Data.csproj" />
+    </ItemGroup>
+
 
 
 

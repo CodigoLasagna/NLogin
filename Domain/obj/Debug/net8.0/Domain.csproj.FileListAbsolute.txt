@@ -1,0 +1,12 @@
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/bin/Debug/net8.0/Domain.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/bin/Debug/net8.0/Domain.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/obj/Debug/net8.0/Domain.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/obj/Debug/net8.0/Domain.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/obj/Debug/net8.0/ref/Domain.dll

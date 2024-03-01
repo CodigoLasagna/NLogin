@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PkpZAvrrNFW72DAXGI39ZpNihKRcd29cWSHDVfR6vHnALVbue9Il7G2Y+A+Pwn2LLHqBxTPggW9Gg8g7lXr6eg==",
+  "success": true,
+  "projectFilePath": "/home/ynwrdcreso/gen/archives/work/coding/dotnet/NLogin/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/ynwrdcreso/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
